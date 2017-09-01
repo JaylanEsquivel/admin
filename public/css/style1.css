@@ -1,0 +1,64 @@
+.back-login{
+	background-image:url(../img/painel1.png);
+	}
+.margin-log2{
+	 border:solid #9603ad 2px;
+	 border-radius:5px;
+	 background-color:#FFF;
+         margin-top: 120px;
+}
+.topo-login{
+	margin-top:100px;
+	
+	}
+ .color-login{
+	 background-color:#9603ad;
+	 color:#fff;
+	 padding-bottom:20px;
+	 padding-top:20px;
+	 font-size:25px;
+	 margin-bottom:15px;	 
+	 }
+	 .black{
+		 color:#000;		 
+		 }
+.form-login{
+			 margin-top:10px;
+			 margin-bottom:10px;
+			 }
+			 .form-login input{
+				 width:100%;
+				 
+				 }
+input[type=text].marg{
+	border:1px solid #000;
+	}
+	.mm{ margin-top:12px;}
+	.mmm{ margin-top:20px; }
+input[type=password].marg{
+	border:1px solid #000;
+	}
+.msg1{
+							 display:none;
+							 font-size:14px;
+							 color:#fff;
+							 background-color:#F00;
+							 border-radius:10px;							 						 
+							 }
+.afs{
+						 padding-right:35px;
+						 }
+.input-group-addon{
+		 background-color:#000 !important;
+		 color:#FFF !important;
+		 font-size:18px !important;
+		}
+#logi{
+					 color:#FFF;
+					 background-color:#9603ad;
+					 }
+					 #logi:hover{
+					 border:1px solid #000;
+					 background-color:#000;
+					 }
+.rp{padding-top:110px}
